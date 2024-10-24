@@ -15,6 +15,7 @@ AI를 위한 머신러닝(캡스톤디자인)
     - If/elif/else
 
 >CH2
+
 #1
 - Series
 - Index
@@ -31,6 +32,7 @@ AI를 위한 머신러닝(캡스톤디자인)
 - Deleting data (drop)
 
 >CH3
+
 #1
 - Wide/long format
 #3
@@ -53,6 +55,7 @@ AI를 위한 머신러닝(캡스톤디자인)
 - apply()
 
 >CH4
+
 #1
 - query()
 - merge() - inner join
